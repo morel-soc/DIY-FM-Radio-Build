@@ -84,5 +84,5 @@ and received FM stations.
 
 It works!
 
-![Victory celebration](https://github.com/user-attachments/assets/7d1c6c8a-e536-4cfc-9253-3f0ef419399d)
+<img width="150" height="150" alt="Season6YesGIFbyParksandRecreation (2)" src="https://github.com/user-attachments/assets/e8c218fe-ab8b-44f0-afb1-512d8f73715f" />
 
